@@ -1,2 +1,2 @@
-# cs848-w2024
- CS 848 (Winter 2024)
+# CS 848 (Winter 2024)
+# Disaggregated and Heterogeneous Computing Platform for Graph Processing
