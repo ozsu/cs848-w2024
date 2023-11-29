@@ -38,7 +38,7 @@ The course is based on weekly paper readings and student presentations, discussi
 + Project: 50%
     + Done in groups of two.
     + Each group needs to find a topic to research and write a report.
-    + See [here](Project.md) for further details
+    + See [these guidelines](Project.md) for further details
 
 ## Weekly Schedule
 See the [schedule](Schedule.md). Please note that we might adjust it as needed depending on class size.
