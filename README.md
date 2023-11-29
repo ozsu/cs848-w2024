@@ -25,7 +25,7 @@ The course is based on weekly paper readings and student presentations, discussi
         + If the class size is small, we will have two presentations per student, in which case I will increase the presentation percentage to 20%
     + This talk is supposed to be an in depth description and analysis of the paper. Make sure you read and understand the paper fully as well as any background you need. The presentations should not be hand-waivy but deep and instructive demonstrating that you have fully understood all aspects of the paper.
     + Please submit the presentation slides by 7pm on the Monday prior to your presentation.
-    + See the [schedule][Schedule.md] that we will fill as we go through the term.
+    + See the [schedule][https://github.com/ozsu/cs848-w2024/blob/main/Schedule.md] that we will fill as we go through the term.
     + See below for submission of presentation slides.
 + Paper Reviews: 20%
     + All students will read the two papers that will be presented each week, and will write a review of the paper to have submitted a review for two of them (of the student's choice) by 7pm on Monday before the lecture.
