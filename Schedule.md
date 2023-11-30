@@ -26,5 +26,5 @@
 1. R. Recio, [A Tutorial of the RDMA Model](https://www.hpcwire.com/2006/09/15/a_tutorial_of_the_rdma_model-1/), HPC Wire, 2006.
 1. InfiniBand Trade Organization, [Enabling the Modern Data Center – RDMA for the Enterprise](https://www.infinibandta.org/wp-content/uploads/2019/05/IBTA_WhitePaper_May-20-2019.pdf), 2019.
 1. A. Lerner et al., [Databases on modern networks: A decade of research that now comes into practice](https://doi.org/10.14778/3611540.3611579). _Proc. VLDB Endowment_, 16(12):3894–3897, 2023.
-1. D. Gouk et al., [Direct access, High-Performance memory disaggregation with DirectCXL](https: //www.usenix.org/conference/atc22/presentation/gouk). In _Proc. USENIX 2022 Annual Technical Conf._, pages 287–294, 2022. 
+1. D. Gouk et al., [Direct access, High-Performance memory disaggregation with DirectCXL](https://www.usenix.org/conference/atc22/presentation/gouk). In _Proc. USENIX 2022 Annual Technical Conf._, pages 287–294, 2022. 
 1. 
