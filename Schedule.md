@@ -18,8 +18,10 @@
 
 ## Readings
 
+Note that all of the following are accessible from the original repositories I have linked to if you access them from the University (or use VPN into SCS if you are accessing from home).
+
 1. R. Wang et al., [The Case for Shared-Memory Databases with RDMA-Enabled Memory Disaggregation](https://www.vldb.org/pvldb/vol16/p15-wang.pdf), _Proc. VLDB Endowment_, 2022
-2. I. Blagodurov et al., [The time is ripe for disaggregated systems](https://www.sigarch.org/the-time-is-ripe-for-disaggregated-systems/). Computer Architecture Today – ACM SIGARCH Blog, sep 2021.
+2. I. Blagodurov et al., [The time is ripe for disaggregated systems](https://www.sigarch.org/the-time-is-ripe-for-disaggregated-systems/). Computer Architecture Today – ACM SIGARCH Blog, 2021.
 3. S. Ghandeharizadeh et al., [Disaggregated database management systems](https://doi.org/10.1007/978-3-031-29576-8_3). In _Performance Evaluation and Benchmarking_, 2023. 
 4. M.T. Özsu and P. Valduriez, [Big Data Processing](https://doi.org/10.1007/978-3-030-26253-2_10). In _Principles of Distributed Database Systems_. Springer, 2022. (Focus on Section 10.4)
 5. M.T. Özsu and P. Valduriez, [Big Data Processing](https://doi.org/10.1007/978-3-030-26253-2_10). In _Principles of Distributed Database Systems_. Springer, 2022. (Focus on Section 12.6)
