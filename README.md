@@ -6,7 +6,11 @@
 + **Seminar Time:** Tue 1:30pm-4:30pm
 
 ## Overview
-There is significant interest in using hardware accelerators for data management. Most of the work has focused on GPUs, but there is interest in the use of FPGAs as well. In parallel, there is research on disaggregated architectures. Initially the focus was on disaggregated storage (most cloud data centres now deploy disaggregated storage), but now disaggregated memory is being investigated. This course will consider the design space when both of these lines of research are combined to develop a disaggregated and heterogeneous platform. The design space is large, so to focus our attention, we will focus on graph workloads.
+For many years, the preferred parallel data management architecture was shared-nothing where multiple compute units, each of which consist of CPU+Memory+Storage, are connected by a network. The shared-nothing architecture performs parallel computation, usually, through explicit messaging. The shared-nothing architecture has been reflected in cloud data centres in the form of a rack-and-blade design, where each blade contains some compute elements, some memory, usually some storage, and perhaps some accelerators tightly connected and multiple blades are mounted on a rack. This _converged_ data centre architecture is now starting to experience difficulties in adequately serving emerging big data applications with highly varying application require-ments. An important expectation of cloud computing is to provide elasticity to accommodate these extreme application needs, but only when they arise. However,  converged data centre architecture is stressed in providing this elasticity and usually over-provisions (i.e., allocates at the beginning of the computation task the maximum resources that may be needed at some point) resulting in low resource utilization. Most data centres have moved to shared-storage solutions by the deployment of SANs that are connected to compute units through high-speed networks. This is called _disaggregated storage_. More recent work has focused on also disaggregating memory, where a bank of memory units are accessible by the compute units over very high speed and low lantency networks. This is called _disaggregated memory_. The combination of both to achieve a fully disaggregated platform architecutre has not yet been studied extensively.
+
+At the same time, there is significant interest in using hardware accelerators for data management. Most of the work has focused on GPUs, but there is interest in the use of FPGAs as well. Many are single machine solutions, but parallel environments and CPU-GPU combinations have also been investigated. There is some work on using FPGAs in data management systems and some on CPU-FPGA combinations. There is no work that considers a heterogeneous CPU-GPU-FPGA platform.  With the increasing role of data management in AI and ML workloads, hardware accelerators will be increasingly important. Current platforms directly connect these accelerators to the compute units, but they can be disaggregated in the same way storage and memory are. 
+
+The purpose of this seminar is to study and debate the design issues of a _disaggregated and heterogeneous computing platform_ (DHCP) and its impact on data management. The design space is quite large, so when more focus is needed by fixing specific workloads, the concentration will be on graph processing.
 
 The course is based on weekly paper readings and student presentations, discussions, and a term project. 
 
@@ -22,16 +26,16 @@ The course is based on weekly paper readings and student presentations, discussi
 ## Workload Breakdown (Tentative and might change depending on class size)
 + Presentation: 15%
     + Each student will present one paper in class, critique it, and answer questions from the class. The presentation should be about 45 minutes.
-        + If the class size is small, we will have two presentations per student, in which case I will increase the presentation percentage to 20%
-    + This talk is supposed to be an in depth description and analysis of the paper. Make sure you read and understand the paper fully as well as any background you need. The presentations should not be hand-waivy but deep and instructive demonstrating that you have fully understood all aspects of the paper.
-    + Please submit the presentation slides by 7pm on the Monday prior to your presentation.
+        + If the class size is small, we will have two presentations per student, in which case I will increase the presentation percentage to 20%.
+    + See [these guidelines](Guideline.md) for preparing your presentation.
+    + Submit the presentation slides by 7pm on the Monday prior to your presentation. See below for submission of presentation slides.
     + See the schedule below that we will fill as we go through the term.
-    + See below for submission of presentation slides.
 + Paper Reviews: 20%
-    + All students will read the two papers that will be presented each week, and will write a review of the paper to have submitted a review for two of them (of the student's choice) by 7pm on Monday before the lecture.
+    + All students will read the two papers that will be presented each week, and will write a review of the papers. You do not need to write a review of the paper you are presenting.
+    + Submit the reviews by 7pm on Monday before the lecture. See below for submission of your reviews.
     + Each review should be no longer than 1000 words -- that is about 2 pages in 12pt font.
+    + I don't care which tool you use, but please make it single column, single-spaced, 12 pt, normal margins (1 in).
     + See [these guidelines](Reviews.md) for writing the reviews.
-    + See below for submission of your reviews.
 + Class participation: 15%
     + Participation in the discussions in class.
     + Since this is a seminar course, this discussion is very important. The expectation is that everyone in class will participate.
@@ -51,3 +55,5 @@ See the [schedule](Schedule.md). Please note that we might adjust it as needed d
 ## Administrative Issues
 
 Please review the materials concerning [academic integrity](https://uwaterloo.ca/library/research-supports/academic-integrity/graduate-academic-integrity-module) and [academic honesty](https://uwaterloo.ca/academic-integrity/integrity-students).
+
+
