@@ -50,7 +50,7 @@ The course is based on weekly paper readings and student presentations, discussi
 See the [schedule](Schedule.md). Please note that we might adjust it as needed depending on class size.
 
 ## Submission of Course material
-* I have set up a dropbox folder for you to drop things ; drop everything here.
+* I have set up a dropbox folder for you to drop things; [drop everything here](https://www.dropbox.com/request/qHrYhkK8ZwiTbbPCMUiH).
 * Everything should be submitted in PDF format.
 * Please name your files as follows: &lt;week_no&gt;-&lt;last_name&gt;-&lt;type&gt;&lt;number&gt;.pdf where &lt;type&gt; is either "review" is for paper reviews or "slides" is for presentation slides when it is your turn; &lt;number&gt; is the paper number.
 
