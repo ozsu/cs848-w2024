@@ -52,7 +52,7 @@ See the [schedule](Schedule.md). Please note that we might adjust it as needed d
 * Everything should be submitted in PDF format.
 * Please name your files as follows: &lt;week_no&gt;-&lt;last_name&gt;-&lt;type&gt;&lt;number&gt;.pdf where &lt;type&gt; is either "review" is for paper reviews or "slides" is for presentation slides when it is your turn; &lt;number&gt; is the paper number.
 
-## Administrative Issues
+## Administrative Issues 
 
 Please review the materials concerning [academic integrity](https://uwaterloo.ca/library/research-supports/academic-integrity/graduate-academic-integrity-module) and [academic honesty](https://uwaterloo.ca/academic-integrity/integrity-students).
 
