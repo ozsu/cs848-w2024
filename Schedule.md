@@ -29,17 +29,17 @@ Note that all of the following are accessible from the original repositories I h
 7. InfiniBand Trade Organization, [Enabling the Modern Data Center – RDMA for the Enterprise](https://www.infinibandta.org/wp-content/uploads/2019/05/IBTA_WhitePaper_May-20-2019.pdf), 2019.
 8. A. Lerner et al., [Databases on modern networks: A decade of research that now comes into practice](https://doi.org/10.14778/3611540.3611579). _Proc. VLDB Endowment_, 16(12):3894–3897, 2023.
 9. D. Gouk et al., [Direct access, High-Performance memory disaggregation with DirectCXL](https://www.usenix.org/conference/atc22/presentation/gouk). In _Proc. USENIX 2022 Annual Technical Conf._, pages 287–294, 2022. 
-10. Storage disaggregation 1
-11. Storage disaggregation 2
-12. Storage disaggregation 3
-13. Storage disaggregation 4
-14. Storage disaggregation 5
-15. Memory disaggregation 1
-16. Memory disaggregation 2
-17. Memory disaggregation 3
-18. Memory disaggregation 4
-19. Memory disaggregation 5
-20. C. Lutz et al., [Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects](https://www.clemenslutz.com/pdfs/sigmod_2020_processing_large_data_on_gpus_with_fast_interconnects.pdf), _Proc. VLDB Endowment_, 2020
+10. A. Verbitski et al., [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://doi.org/10.1145/3035918.3056101), In _Proc. ACM SIGMOD Int. Conf. Management of Data_, pages 1041–1052, 2017.
+11. P. Antonopoulos, et al., [Socrates: The New SQL Server in the Cloud](https://dl.acm.org/doi/10.1145/3299869.3314047), In _Proc. ACM SIGMOD Int. Conf. Management of Data_, pages 1743–1756, 2019.
+12. W. Cao et al., [PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database](https://doi.org/10.14778/3229863.3229872), _Proc. VLDB Endowment_, 11(12): 1849-1962, 2018.
+13. M. Vuppalapati et al., [Building An Elastic Query Engine on Disaggregated Storage](https://www.usenix.org/conference/nsdi20/presentation/vuppalapati), In _Proc. 17th USENIX Symp. on Networked Systems Design & Implementation,_ pages 449-462, 2020.
+14. A. Agiwal et al., [Napa: Powering Scalable Data Warehousing with Robust Query Performance at Google](https://doi.org/10.14778/3476311.3476377), 14(12): 2986-2998, 2021
+15. Y, Shan et al., [LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/conference/osdi18/presentation/shan), In _Proc. 14th USENIX Symp. on Operating System Design and Implementation_, pages 69-87, 2018.
+16. Y. Zhang et al., [Towards Cost-Effective and Elastic Cloud Database Deployment via Memory Disaggregation](https://doi.org/10.14778/3467861.3467877), _Proc. VLDB Endowment_, 14(10): 1900 - 1912, 2021.
+17. Wei Cao et al., [PolarDB Serverless: A Cloud Native Database for Disaggregated Data Centers](https://doi.org/10.1145/3448016.3457560), In _Proc. ACM SIGMOD Int. Conf. Management of Data_, pages 2477–2489, 2021.
+18. Q. Zhang et al., [Understanding the Effect of Data Center Resource Disaggregation on Production DBMSs](https://doi.org/10.14778/3397230.3397249), _Proc. VLDB Endowment_, 13(9): 1568-1581, 2020.
+19. Q. Zhang et al., [Redy: Remote Dynamic Memory Cache](https://doi.org/10.14778/3503585.3503587), _Proc. VLDB Endowment_, 15(4): 766 - 779, 2022.
+20. C. Lutz et al., [Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects](https://doi.org/10.1145/3318464.3389705), In _Proc. ACM SIGMOD Int. Conf. Management of Data_, pages 1633–1649, 2020.
 21. L. Hu et al., [GAMMA: A Graph Pattern Mining Framework for Large Graphs on GPU](https://ieeexplore.ieee.org/document/10184586), In _IEEE 39th International Conference on Data Engineering_, 2023.
 22. xxx
 23. xxx
