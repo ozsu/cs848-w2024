@@ -17,4 +17,4 @@ Note that all of the readings are accessible from the original repositories I ha
 | 10 | 3/14 | Hardware accelerators | Student 11 <br/> Student 12 | * C. Lutz et al., [Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects](https://doi.org/10.1145/3318464.3389705), In _Proc. ACM SIGMOD Int. Conf. Management of Data_, pages 1633–1649, 2020. <br/> * L. Hu et al., [GAMMA: A Graph Pattern Mining Framework for Large Graphs on GPU](https://ieeexplore.ieee.org/document/10184586), In _IEEE 39th International Conference on Data Engineering_, 2023. |
 | 11 | 3/31 | Hardware accelerators  | Student 13 <br/><br/><br/> Student 14  | * D. Korilija et al, [Farview: Disaggregated Memory with Operator Off-loading for Database Engines](https://www.cidrdb.org/cidr2022/papers/p11-korolija.pdf), In _Proc. 12th Conf. on Innovative Data Syst. Research_, 2022. <br/> * One more paper |
 | 12 | 3/28 |  Project presentations |  |  |
-| 13 | 4/4 |  Project presentations |  |  |
+| 13 | 4/4 |  Project presentations |  |  | 
