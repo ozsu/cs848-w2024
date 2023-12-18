@@ -22,6 +22,8 @@ The course is based on weekly paper readings and student presentations, discussi
 
 + Weekd 11-13: Brief project presentations (see below)
 
++ Discussions will be over Piazza. Please go [here and add yourself](https://piazza.com/uwaterloo.ca/winter2024/cs848) to the class.
+
 
 ## Workload Breakdown (Tentative and might change depending on class size)
 + Presentation: 15%
