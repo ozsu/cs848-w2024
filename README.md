@@ -29,7 +29,7 @@ The course is based on weekly paper readings and student presentations, discussi
 + Presentation: 15%
     + Each student will present one paper in class, critique it, and answer questions from the class. The presentation should be about 45 minutes.
         + If the class size is small, we will have two presentations per student, in which case I will increase the presentation percentage to 20%.
-    + See [these guidelines](Guideline.md) for preparing your presentation.
+    + See [these guidelines](Presentation.md) for preparing your presentation.
     + Submit the presentation slides by 7pm on the Monday prior to your presentation. See below for submission of presentation slides.
     + See the schedule below that we will fill as we go through the term.
 + Paper Reviews: 20%
