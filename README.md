@@ -18,9 +18,11 @@ The course is based on weekly paper readings and student presentations, discussi
 
 + Weeks 1 and 2: I will be presenting some background material to set the stage. There are background reading materials for this section and I expect you to read them and be prepared to discuss (see below for details).
 
-+ Weeks 3-10: These weeks, we will spend the class time in paper presentations and discussions. Each week will be two paper presentation and discussions.
++ Week 3: Prof. Samer Al-Kiswany and his student will be presenting their work on RDMA. We will then have a discussion on CXL.
 
-+ Weekd 11-13: Brief project presentations (see below)
++ Weeks 4-11: These weeks, we will spend the class time in paper presentations and discussions. Each week will be two paper presentation and discussions.
+
++ Weeks 12-13: Brief project presentations (see below)
 
 + Discussions will be over Piazza. Please go [here and add yourself](https://piazza.com/uwaterloo.ca/winter2024/cs848) to the class.
 
