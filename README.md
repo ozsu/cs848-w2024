@@ -32,11 +32,11 @@ The course is based on weekly paper readings and student presentations, discussi
     + Each student will present one paper in class, critique it, and answer questions from the class. The presentation should be about 45 minutes.
         + If the class size is small, we will have two presentations per student, in which case I will increase the presentation percentage to 20%.
     + See [these guidelines](Presentation.md) for preparing your presentation.
-    + Submit the presentation slides by 7pm on the Monday prior to your presentation. See below for submission of presentation slides.
+    + Submit the presentation slides by 7pm on the Wednesday prior to your presentation. See below for submission of presentation slides.
     + See the schedule below that we will fill as we go through the term.
 + Paper Reviews: 20%
     + All students will read the two papers that will be presented each week, and will write a review of the papers. You do not need to write a review of the paper you are presenting.
-    + Submit the reviews by 7pm on Monday before the lecture. See below for submission of your reviews.
+    + Submit the reviews by 7pm on Wednesday before the lecture. See below for submission of your reviews.
     + Each review should be no longer than 1000 words -- that is about 2 pages in 12pt font.
     + I don't care which tool you use, but please make it single column, single-spaced, 12 pt, normal margins (1 in).
     + See [these guidelines](Reviews.md) for writing the reviews.
