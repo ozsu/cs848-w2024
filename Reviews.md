@@ -1,6 +1,6 @@
 ## Guidelines for Paper Reviews
 
-The paper reviews should be 100 words -- this is about 2 pages single-spaced in 12pt font -- I don't want anything longer. The important thing is that the review should describe the contributions of the paper and your critique of its contributions. Use your own words, and if you need to quote from the original paper, remember to quote it properly.
+The paper reviews should be 1000 words -- this is about 2 pages single-spaced in 12pt font -- I don't want anything longer. The important thing is that the review should describe the contributions of the paper and your critique of its contributions. Use your own words, and if you need to quote from the original paper, remember to quote it properly.
 
 The following is the outline of the reviews that I expect. You may also find the following useful:
 + [How to read a paper][https://dl.acm.org/doi/10.1145/1273445.1273458] by S. Keshav
